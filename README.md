@@ -26,4 +26,4 @@ Simulace se opírá o následující soubory:
 ## Licence a Autor
 Tento projekt je licencován pod otevřenou licencí MIT.
 František Kubát, student oboru Matematické inženýrství  
-Vysoké učení technické v Brně (VUT)
+Vysoké učení technické v Brně
